@@ -1,0 +1,24 @@
+Current code style is as follows:
+
+Braces on newlines in function definitions, but in line otherwise:
+
+int func() 
+{
+   for (;;) {
+       i++;
+   }
+
+
+   return 0;
+}
+
+
+- (BOOL) arseFromElbow:(BOOL) canTell plankThickness:(float) inches;
+
+Blank lines between groups of related statements.
+
+Use underscore suffix only for private ivars which back a property. Don't use an underscore for purely private ivars.
+
+Use underscore prefix for ivars which don't back a property. That means that unprefixed and unsuffixed variables are locals or globals.
+
+
