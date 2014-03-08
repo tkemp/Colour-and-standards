@@ -5,7 +5,7 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.7653 0.699234 0.758969 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Menlo-Bold - 13.0</string>
+	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.6431 0.5881 0.637824 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
@@ -21,11 +21,11 @@
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.747128 0.850053 0.898781 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.0762147 0.0762293 0.0762122 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0 0 0 1</string>
+	<string>1 1 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.243 0.276 0.277 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
@@ -39,7 +39,7 @@
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.243 0.276 0.277 1</string>
+	<string>0.917134 0.404368 0.107785 0.45</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -69,7 +69,7 @@
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>0.778 0.488 0.284 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.512 0.754 0.343 1</string>
+		<string>0.693 0.869 0.759 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
 		<string>0.587 0.837 0.948 1</string>
 		<key>xcode.syntax.identifier.variable</key>
@@ -92,51 +92,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Menlo-Bold - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Menlo-Bold - 11.0</string>
+		<string>SourceCodePro-Semibold - 12.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Menlo-Regular - 11.0</string>
+		<string>SourceCodePro-Regular - 12.0</string>
 	</dict>
 </dict>
 </plist>
